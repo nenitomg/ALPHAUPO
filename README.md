@@ -5,20 +5,20 @@ Contiene una demo para minimax y minimax con alphabeta en el fichero que se encu
 
 # Organización
 
-  ## Database maker:
+  ### Database maker ###
   Contiene un script que carga la base de datos con los archivos pgn que se le pasen.
 
-  Game:
+  ### Game ###
   En esta carpeta va la implementación del juego y los motores de ajedrez.
 
-  Game -> Game:
+  ### Game -> Game ###
   Contiene los archivos de la implementación del juego base.
 
-  Game -> Engine:
+  ### Game -> Engine ###
   Contiene los archivos de los motores de ajedrez.
 
-  Game -> Engine -> Games:
+  ### Game -> Engine -> Games ###
   Contiene las partidas exportadas desde el motor en formato pgn.
 
-  Game -> Engine -> MiniMax:
+  ### Game -> Engine -> MiniMax ###
   Contiene los archivos de la implementación con el algoritmo de minimax.
