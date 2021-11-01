@@ -1,0 +1,10 @@
+[Event "Primera partida contra minMax alpha-beta profundidad 4"]
+[Site "Local"]
+[Date "2021/10/28"]
+[Round "?"]
+[White "Eugenio Menacho(Padre)"]
+[Black "Alphaupo MiniMax alpha-beta depth 4"]
+[Result "*"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nb8 4. Nc3 c6 5. Nf3 cxd5 6. Nxd5 Nf6 7. Bg5 h6 8. Bxf6 gxf6 9. c3 f5 10. Qa4 fxe4 11. Qxe4 Bd6 12. Nxe5 Kf8 13. Ng4 h5 14. Ngf6 Rh6 15. Nh7+ Kg7 16. Ng5 Qxg5 17. f4 Qh4+ 18. g3 Qd8 19. O-O-O Nc6 20. Re1 Re6 21. Qg2 Rxe1+ 22. Kd2 Rb1 23. g4 Rxb2+ *
+

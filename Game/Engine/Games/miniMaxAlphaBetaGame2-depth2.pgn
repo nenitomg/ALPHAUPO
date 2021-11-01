@@ -1,0 +1,42 @@
+[Event "Segunda partida de minMax alpha-beta profundidad 2"]
+[Site "Local"]
+[Date "2021/11/1"]
+[Round "?"]
+[White "Alphaupo MiniMax alpha-beta depth 2"]
+[Black "Alphaupo MiniMax alpha-beta depth 2"]
+[Result "*"]
+
+1. Nf3 Nf6 2. Nc3 Nc6 3. e3 e6 4. Bc4 Bd6 5. h3 Rg8 6. d3 Rh8 7. Bd2 Rg8 8. Bb3
+Rh8 9. Bc4 Rg8 10. Bb3 Rf8 11. Rg1 Rh8 12. Bc4 Rg8 13. Bb3 Rh8 14. Bc4 Rg8 15.
+Rh1 Rf8 16. Bb3 Rh8 17. Bc4 Rg8 18. Bb3 Rh8 19. Bc4 Rg8 20. Rg1 Rf8 21. Rf1 Rg8
+22. Bb3 Rh8 23. Bc4 Rg8 24. Bb3 Rh8 25. Rh1 Rf8 26. Ke2 Rh8 27. Re1 Rg8 28. Bc4
+Rh8 29. Bb3 Rg8 30. Bc4 Rf8 31. Kf1 Rh8 32. Bb3 Rg8 33. Bc4 Rh8 34. Bb3 Rg8 35.
+Ke2 Rf8 36. Bc4 Rg8 37. Bb3 Rf8 38. Bc4 Ke7 39. Bb3 Re8 40. Bc4 Rb8 41. Bb3 Ra8
+42. Bc4 Rb8 43. Kf1 Kf8 44. Bb3 Kg8 45. Bc4 Kh8 46. Bb3 Kg8 47. Bc4 Kh8 48. Ke2
+Qe7 49. Bb3 Kg8 50. Bc4 Kh8 51. Bb3 Kg8 52. Qc1 Kf8 53. Bc4 Kg8 54. Bb3 Kf8 55.
+Bc4 h6 56. Bb3 Kg8 57. Bc4 Kh8 58. Bb3 Kg8 59. Bc4 Kh8 60. Kf1 Kh7 61. Bb3 Rd8
+62. Bc4 Re8 63. Bb3 Rd8 64. Ke2 Ra8 65. Bc4 Re8 66. Bb3 Rd8 67. Bc4 Re8 68. Kd1
+Rb8 69. Bb3 Rd8 70. Bc4 Re8 71. Bb3 Rd8 72. Qb1 Ra8 73. Bc4 Re8 74. Bb3 Rd8 75.
+Bc4 Re8 76. Ke2 Rb8 77. Bb3 Rd8 78. Bc4 Re8 79. Bb3 Rd8 80. Kf1 Ra8 81. Bc4 Re8
+82. Bb3 Rd8 83. Bc4 Re8 84. Kg1 Rb8 85. Bb3 Rd8 86. Bc4 Re8 87. Bb3 Rd8 88. Kh1
+Ra8 89. Bc4 Re8 90. Bb3 Rd8 91. Bc4 Re8 92. Rd1 Rb8 93. Bb3 Rd8 94. Bc4 Re8 95.
+Bb3 Rd8 96. Kg1 Ra8 97. Bc4 Re8 98. Bb3 Rd8 99. Bc4 Re8 100. Kf1 Rb8 101. Bb3
+Rd8 102. Bc4 Re8 103. Bb3 Rd8 104. Ke2 Ra8 105. h4 Re8 106. Bc4 Rd8 107. Bb3
+Re8 108. Bc4 Rb8 109. Kf1 Rd8 110. Bb3 Re8 111. Bc4 Rd8 112. Bb3 Kh8 113. Ke2
+Kg8 114. Bc4 Kh8 115. Bb3 Kg8 116. Bc4 Kf8 117. Kf1 Ke8 118. Bb3 Kf8 119. Bc4
+Ke8 120. Bb3 Ra8 121. Ke2 Kf8 122. Bc4 Kg8 123. Kf1 Kh8 124. Bb3 Kg8 125. Bc4
+Kh8 126. Bb3 Re8 127. Kg1 Kg8 128. Bc4 Kh8 129. Bb3 Kg8 130. Bc4 Kf8 131. Kh1
+Rd8 132. Bb3 Kg8 133. Bc4 Kh8 134. Bb3 Kg8 135. Bc4 Kh8 136. Kg1 Kh7 137. Bb3
+Re8 138. Bc4 Rd8 139. Bb3 Re8 140. Kh1 Rb8 141. Bc4 Rd8 142. Bb3 Re8 143. Bc4
+Rd8 144. Re1 Ra8 145. Bb3 Re8 146. Bc4 Rd8 147. Bb3 Re8 148. Kg1 Rb8 149. Bc4
+Rd8 150. Bb3 Re8 151. Bc4 Rd8 152. Kf1 Ra8 153. Bb3 Re8 154. Bc4 a6 155. Bb3
+Rd8 156. Bc4 Re8 157. Bb3 Rd8 158. Ke2 Rb8 159. Bc4 Re8 160. Bb3 Rd8 161. Bc4
+Re8 162. Kd1 Ra8 163. Bb3 Rd8 164. Bc4 Re8 165. Bb3 Rd8 166. Kc1 Rb8 167. Bc4
+Re8 168. Bb3 Rd8 169. Bc4 Re8 170. Rd1 Ra8 171. Bb3 Rd8 172. Bc4 Re8 173. Bb3
+Rd8 174. Ne2 Rb8 175. Bc3 Ng4 176. e4 Nxf2 177. Re1 Ng4 178. h5 Ne3 179. Kd2
+Nxg2 180. Rd1 Re8 181. Bc4 Rd8 182. Bb3 Re8 183. Bc4 Ra8 184. Kc1 Ne3 185. Ng5+
+Qxg5 186. Bxe6 dxe6 187. Re1 Qxh5 188. Ng1 Ng4 189. Nf3 Bf4+ 190. Kd1 Nf2+ 191.
+Ke2 Ng4 192. Kf1 Qh3+ 193. Ke2 Qg2+ 194. Kd1 Qxf3+ 195. Re2 Ne3+ 196. Kd2 Nc4+
+197. Ke1 Qg3+ 198. Kf1 Qf3+ 199. Kg1 Qxe2 200. dxc4 Qxe4 201. c5 Be3+ 202. Kh2
+Bxc5 203. Kh3 e5+ 204. Kg3 Qg6+ 205. Kh2 Qh5+ 206. Kg3 Qh3# *
+

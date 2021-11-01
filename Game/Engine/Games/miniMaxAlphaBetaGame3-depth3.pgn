@@ -1,0 +1,10 @@
+[Event "Tercera partida de minMax alpha-beta profundidad 3"]
+[Site "Local"]
+[Date "2021/11/1"]
+[Round "?"]
+[White "Alphaupo MiniMax alpha-beta depth 3"]
+[Black "Alphaupo MiniMax alpha-beta depth 3"]
+[Result "*"]
+
+1. Nf3 Nf6 2. Ne5 d6 3. Nc4 Be6 4. e3 Nc6 5. Nc3 Ng4 6. d4 d5 7. Nd2 Qd7 8. Bb5 O-O-O 9. Bxc6 Qxc6 10. Qf3 Kb8 11. Qh3 Nxf2 12. Qxe6 fxe6 13. Kxf2 e5 14. dxe5 e6 15. Kg1 Bb4 16. Ndb1 Qc4 17. Nd2 Qc6 18. Ndb1 d4 19. exd4 Rxd4 20. Be3 Rg4 21. g3 Bxc3 22. Nxc3 a6 23. Re1 Qf3 24. a3 Ka8 25. Bc5 Re8 26. Re3 Qc6 27. Ne4 Rd8 28. h3 Rd1+ 29. Kh2 Rxh1+ 30. Kxh1 Rxe4 31. Rxe4 Qxe4+ 32. Kg1 Qxe5 33. Bf2 Qxb2 34. Be3 Qxa3 35. Bf4 Qc5+ 36. Kh1 e5 37. Bg5 Kb8 38. Bd8 Qd5+ 39. Kg1 Qd4+ 40. Kh2 Qxd8 41. g4 Qd1 42. c4 Qd4 43. g5 e4 44. g6 hxg6 45. Kg2 g5 46. Kh2 Qc5 47. Kg2 Qd4 48. Kh2 Qxc4 49. Kg2 Qe6 50. Kh2 Qc8 51. Kg2 Qh8 52. Kh2 g4 53. Kg2 gxh3+ 54. Kh2 Qh5 55. Kg3 h2 56. Kg2 h1=Q+ 57. Kg3 Kc8 58. Kf4 Q1f3# *
+
