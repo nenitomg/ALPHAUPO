@@ -4,6 +4,9 @@ Alphaupo es un motor de ajedrez que intenta imitar la inteligencia humana con va
 
 Organización:
 
+Database maker:
+Contiene un script que carga la base de datos con los archivos pgn que se le pasen.
+
 Game:
 En esta carpeta va la implementación del juego y los motores de ajedrez.
 
