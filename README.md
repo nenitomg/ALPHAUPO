@@ -5,7 +5,7 @@ Contiene una demo para minimax y minimax con alphabeta en el fichero que se encu
 
 # Organización
 
-  Database maker:
+  ## Database maker:
   Contiene un script que carga la base de datos con los archivos pgn que se le pasen.
 
   Game:
