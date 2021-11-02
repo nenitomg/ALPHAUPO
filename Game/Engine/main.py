@@ -21,7 +21,7 @@ import chess.pgn
 #Se le pasa tambien el evento, el sitio, la fecha, quien va con blancas, quien va con negras
 #y el nombre del archivo
 
-def playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negras, nombre_archivo):
+def playAgainstItself(depth, engine_name, evento, sitio, fecha, con_blancas, con_negras, nombre_archivo):
     game = chess.pgn.Game()
     game.headers["Event"] = evento
     game.headers["Site"] = sitio
@@ -38,7 +38,7 @@ def playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negr
     
     
     #alphabeta
-    if (engine):
+    if (engine_name):
         alpha = -float("inf")
         beta = float("inf")
         iteration = 0
@@ -68,18 +68,35 @@ def playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negr
 
 
 #Main
-depth = 3
+
+depth = 5
 engine = True
 
-evento = "Quinta partida de minMax alpha-beta profundidad 3"
+evento = "Quinta partida de minMax alpha-beta profundidad 5"
 sitio = "Local"
 fecha = "2021/11/1"
-con_blancas = "Alphaupo MiniMax alpha-beta depth 3"
-con_negras = "Alphaupo MiniMax alpha-beta depth 3"
-nombre_archivo = "miniMaxAlphaBetaGame5-depth3.pgn"
+con_blancas = "Alphaupo MiniMax alpha-beta depth 5"
+con_negras = "Alphaupo MiniMax alpha-beta depth 5"
+nombre_archivo = "miniMaxAlphaBetaGame6-depth5.pgn"
 
 
 playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negras, nombre_archivo)
+
+
+
+#problemas
+"""
+engine = mm.MiniMax()
+board = chess.Board("8/8/8/4p3/6P1/P7/1P1k1KP1/8 b - - 0 51")
+
+
+move = engine.alphaBeta(board, 7, -float("inf"), float("inf"))
+print("Movimiento alphabeta: ", str(move[1]))
+"""
+
+
+
+
 
 
 

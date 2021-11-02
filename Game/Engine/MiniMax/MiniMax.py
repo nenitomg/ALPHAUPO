@@ -279,9 +279,9 @@ class MiniMax:
             
         if board.can_claim_draw() or board.is_stalemate() or board.is_insufficient_material():
             if turn:
-                return 99
+                return 30
             else:
-                return -99
+                return -30
             
         
         
