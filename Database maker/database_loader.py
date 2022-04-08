@@ -85,7 +85,7 @@ def createTableGames(games):
             evento = ""
             
         if "Game" in games[i]:
-            partida = games[i]["Game"]
+            partida = games[i]["Game"].replace('\n', ' ')
         else:
             partida = ""
             

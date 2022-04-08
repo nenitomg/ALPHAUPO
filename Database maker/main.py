@@ -14,7 +14,6 @@ import database_loader as dbl
 
 
 files = dbl.getFiles('pgn_games')
-dbl.deleteTables()
 
 for file in files:
     print("Executing for: " + file)

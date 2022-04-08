@@ -1,0 +1,4 @@
+set @game = '%1.e4 e5%';
+SELECT LEFT(SUBSTRING(Game,LENGTH(@game)), InStr(SUBSTRING(Game,LENGTH(@game)),' ') - 1) as n_move, count(*) FROM `partida`
+WHERE Game LIKE @game
+GROUP BY n_move;

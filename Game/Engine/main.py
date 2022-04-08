@@ -80,9 +80,12 @@ con_negras = "Alphaupo MiniMax alpha-beta depth 5"
 nombre_archivo = "miniMaxAlphaBetaGame6-depth5.pgn"
 
 
-playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negras, nombre_archivo)
-
-
+#playAgainstItself(depth, engine, evento, sitio, fecha, con_blancas, con_negras, nombre_archivo)
+engine = mm.MiniMax()
+game = chess.pgn.Game()
+board = game.board()
+move = engine.miniMax(board, 4)
+print("Movimiento alphabeta: ", str(move[1]))
 
 #problemas
 """
